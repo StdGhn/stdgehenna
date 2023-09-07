@@ -1,0 +1,16 @@
+footer{
+    background-color: black;
+    color: white;
+    font-family: 'Ubuntu', sans-serif;
+    text-align: center;
+    margin: 0%;
+}
+
+a{
+    color: white;
+    text-decoration: none;
+}
+
+.social{
+    font-weight: 600;
+}
